@@ -1,1 +1,1 @@
-- Anthropogenic climate change is the result of an exess of greenhouse gasses within the atmosphere
+- Anthropogenic climate change is the result of an exess of greenhouse gasses within the atmosphere.
