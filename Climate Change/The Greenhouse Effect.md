@@ -4,4 +4,4 @@
  - The warmed earth emmits this heat back into the atmosphere in the form of infrared radiation
  - Greenhouse gasses such as Carbon dioxide and Methane trap infrared radiation emmited by the earth within the troposphere
  - This Greenhouse effect keeps the earth at a stable temperature
- - The greenhouse effect is kept at an equalibrium. When human disrupt this natural equalibrium [[anthropogenic climate change]] can occur
+ - The greenhouse effect is kept at an equalibrium. When human disrupt this natural equalibrium [[Anthropogenic Climate Change]] can occur

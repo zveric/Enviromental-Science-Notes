@@ -1,3 +1,2 @@
 - Anthropogenic climate change is the result of an exess of greenhouse gasses within the atmosphere. [[The Greenhouse Effect]] that these gasses cause is exasabated by the exess of gasses.
-- This causes the earth to heat up as the natural equalibrium is disrupted.
-- 
+- This causes the earth to heat up as the natural [[Dynamic Equalibrium]]is disrupted.
