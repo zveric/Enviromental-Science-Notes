@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af7a205e77eb3ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Equalibrium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anthropogenic Climate Change.md",
+                "file": "Dynamic Equalibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anthropogenic Climate Change.md",
+                "file": "Dynamic Equalibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anthropogenic Climate Change.md"
+                "file": "Dynamic Equalibrium.md"
               }
             }
           },
@@ -177,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78470451469d21c6",
+  "active": "af7a205e77eb3ade",
   "lastOpenFiles": [
-    "The Greenhouse Effect.md",
     "Anthropogenic Climate Change.md",
+    "The Greenhouse Effect.md",
     "Climate Change/37 Greehouse and Kyoto.pdf",
     "hi.md"
   ]

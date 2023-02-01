@@ -1,0 +1,2 @@
+- Dynamic equalibrium occurs when a system is in equalibrium between two states.
+- Unlike other types of equlibrium there is fluctuations.
