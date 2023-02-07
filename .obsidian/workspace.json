@@ -4,79 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb45dedffbbfcd2",
+        "id": "3ad93a3bb9ea77b9",
         "type": "tabs",
         "children": [
           {
-            "id": "72f18b463ad10020",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Climate Change/37 Greehouse and Kyoto.pdf"
-              }
-            }
-          },
-          {
-            "id": "57e77c69e579b3c0",
+            "id": "8e2b4282a244fe2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climate Change/The Greenhouse Effect.md",
+                "file": "Life and Processes in the Biosphere/Succsession.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74e5a65aab81094d",
+            "id": "7538027276abe54a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climate Change/Anthropogenic Climate Change.md",
+                "file": "Life and Processes in the Biosphere/Population Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af7a205e77eb3ade",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Climate Change/386-The-Paris-Agreement.pdf"
-              }
-            }
-          },
-          {
-            "id": "2df43892e5c7e596",
+            "id": "086dbd783ebb87c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Climate Agreements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a0538a5710b0c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Montreal Protocol (DATE).md",
+                "file": "Ecological Terminology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,14 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Montreal Protocol (DATE).md",
+                "file": "Ecological Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Montreal Protocol (DATE).md",
+                "file": "Ecological Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Montreal Protocol (DATE).md"
+                "file": "Ecological Terminology.md"
               }
             }
           },
@@ -211,14 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a0538a5710b0c3c",
+  "active": "78470451469d21c6",
   "lastOpenFiles": [
-    "Global Climate Agreements.md",
-    "Climate Change/386-The-Paris-Agreement.pdf",
-    "Climate Change/The Greenhouse Effect.md",
-    "Climate Change/Anthropogenic Climate Change.md",
-    "Dynamic Equalibrium.md",
+    "Life and Processes in the Biosphere/Succsession.md",
+    "Ecological Terminology.md",
+    "Life and Processes in the Biosphere/Population Control.md",
+    "Attachments/Pasted image 20230206094642.png",
     "Climate Change/37 Greehouse and Kyoto.pdf",
-    "hi.md"
+    "Climate Change/The Greenhouse Effect.md",
+    "Climate Change/Ozone/Anthropogenic Climate Change.md",
+    "Climate Change/386-The-Paris-Agreement.pdf",
+    "Climate Change/Global Climate Agreements.md",
+    "Climate Change/Ozone/Ozone Depleting Substances.md"
   ]
 }

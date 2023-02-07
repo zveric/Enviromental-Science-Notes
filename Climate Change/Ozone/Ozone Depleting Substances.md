@@ -1,0 +1,1 @@
+Ozone depleating substances are substances that react with the [[Stratospheric Ozone Layer]] damaging the protective layer

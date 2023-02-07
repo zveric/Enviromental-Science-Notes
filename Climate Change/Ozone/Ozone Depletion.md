@@ -1,0 +1,1 @@
+Ozone depletion is the process that occurs when ozone in the [[Stratospheric Ozone Layer]] comes into contact with [[Ozone Depleting Substances]]

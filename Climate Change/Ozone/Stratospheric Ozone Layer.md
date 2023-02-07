@@ -1,0 +1,4 @@
+- The stratospheric ozone layer is a layer of ozone(O^3)
+- It stops damaging ultraviolet rays from reaching the earth. Through a process where the ozone is broken up into individual oxygen atoms by the ultraviolet life before reassembling back into ozone
+- In the 1980s a hole was found in the ozone layer caused by [[Ozone Depleting Substances]]. The process that caused this is called [[Ozone Depletion]]
+- 
