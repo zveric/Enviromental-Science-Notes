@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf06becd45804788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "River discharge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2f3d6ab9e954c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groundwater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecological Terminology.md",
+                "file": "Groundwater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecological Terminology.md",
+                "file": "Groundwater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecological Terminology.md"
+                "file": "Groundwater.md"
               }
             }
           },
@@ -179,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78470451469d21c6",
+  "active": "b2f3d6ab9e954c62",
   "lastOpenFiles": [
+    "River discharge.md",
     "Life and Processes in the Biosphere/Succsession.md",
     "Ecological Terminology.md",
     "Life and Processes in the Biosphere/Population Control.md",
@@ -189,7 +214,6 @@
     "Climate Change/The Greenhouse Effect.md",
     "Climate Change/Ozone/Anthropogenic Climate Change.md",
     "Climate Change/386-The-Paris-Agreement.pdf",
-    "Climate Change/Global Climate Agreements.md",
-    "Climate Change/Ozone/Ozone Depleting Substances.md"
+    "Climate Change/Global Climate Agreements.md"
   ]
 }
