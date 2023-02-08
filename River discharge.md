@@ -4,4 +4,4 @@
 ## Factors effecting river discharge
 - Precipitation
 - Ice melting
-- monsoon climates
+- Monsoon climates

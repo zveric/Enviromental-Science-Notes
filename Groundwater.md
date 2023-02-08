@@ -16,5 +16,6 @@
 ![[1675853424126.jpeg]]
 - Confined aquifers are fully or partially covered by impermeable rocks.
 - Unconfined Aquifers are directly recharged over their whole area. They are recharged quickly but are vulnerable to pollution.
-- B is an artesian aquifer
+### ## Artesian aquifer
+- **B** in the diagram represents an Artesian aquifer
 - This means that the water in the valley is under hydro-static pressure.

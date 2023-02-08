@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groundwater.md",
+                "file": "River discharge.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groundwater.md",
+                "file": "River discharge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groundwater.md",
+                "file": "River discharge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groundwater.md"
+                "file": "River discharge.md"
               }
             }
           },
@@ -205,15 +205,15 @@
   },
   "active": "b2f3d6ab9e954c62",
   "lastOpenFiles": [
+    "Groundwater.md",
     "River discharge.md",
+    "Attachments/1675853424126.jpeg",
     "Life and Processes in the Biosphere/Succsession.md",
     "Ecological Terminology.md",
     "Life and Processes in the Biosphere/Population Control.md",
     "Attachments/Pasted image 20230206094642.png",
     "Climate Change/37 Greehouse and Kyoto.pdf",
     "Climate Change/The Greenhouse Effect.md",
-    "Climate Change/Ozone/Anthropogenic Climate Change.md",
-    "Climate Change/386-The-Paris-Agreement.pdf",
-    "Climate Change/Global Climate Agreements.md"
+    "Climate Change/Ozone/Anthropogenic Climate Change.md"
   ]
 }
