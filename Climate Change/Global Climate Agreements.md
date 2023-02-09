@@ -3,6 +3,6 @@ Such agreements try to mitigate the effects of climate change through the adapti
 
 ## Examples of Global Climate Agreements:
 - [[The Paris Agreement]]
-- [[The Montreal Protocol (DATE)]]
+- [[The Montreal Protocol (1987)]]
 - [[COP 26]]
 - 

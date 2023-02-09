@@ -1,1 +1,2 @@
-Ozone depleating substances are substances that react with the [[Stratospheric Ozone Layer]] damaging the protective layer
+- Ozone depleting substances are substances that react with the [[Stratospheric Ozone Layer]] damaging the protective layer.
+- [[CFC'S]] are some of the most well known ODSes as they were widely used throughout the 1950s-1980s
