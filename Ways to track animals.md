@@ -1,0 +1,3 @@
+- Satellite tracking
+- Camera traps
+- Radio tags

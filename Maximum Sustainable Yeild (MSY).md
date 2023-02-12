@@ -1,0 +1,2 @@
+- The maximum sustainable yield is the largest yield that can be taken from a species stock over an indefinite period.
+- MSY aims to keep the population at the maximum growth rate 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "29e2de7c56c81d3f",
+        "id": "a2e3809e17342714",
         "type": "tabs",
         "children": [
           {
@@ -16,7 +16,13 @@
                 "file": "signal-2023-02-12-161704_002.jpeg"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "29e2de7c56c81d3f",
+        "type": "tabs",
+        "children": [
           {
             "id": "a9d7d5519a147716",
             "type": "leaf",
@@ -24,6 +30,18 @@
               "type": "markdown",
               "state": {
                 "file": "Maximum Sustainable Yeild (MSY).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3a0340ff0b79144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ways to track animals.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maximum Sustainable Yeild (MSY).md",
+                "file": "Ways to track animals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maximum Sustainable Yeild (MSY).md",
+                "file": "Ways to track animals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maximum Sustainable Yeild (MSY).md"
+                "file": "Ways to track animals.md"
               }
             }
           },
@@ -165,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d7d5519a147716",
+  "active": "a3a0340ff0b79144",
   "lastOpenFiles": [
+    "Maximum Sustainable Yeild (MSY).md",
     "signal-2023-02-12-161704_002.jpeg",
     "The Hydrosphere/Water Supply in the UK.md",
     "Simpsons Biodiversity Index.md",
@@ -175,7 +194,6 @@
     "The Hydrosphere/Groundwater.md",
     "Ecological Terminology.md",
     "Life and Processes in the Biosphere/Population Control.md",
-    "Life and Processes in the Biosphere/Succsession.md",
-    "Dynamic Equilibrium.md"
+    "Life and Processes in the Biosphere/Succsession.md"
   ]
 }
