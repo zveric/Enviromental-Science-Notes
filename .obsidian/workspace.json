@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "3ad93a3bb9ea77b9",
+        "id": "29e2de7c56c81d3f",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f3d6ab9e954c62",
+            "id": "ed44164122d2fdca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "The Hydrosphere/Groundwater.md",
-                "mode": "source",
-                "source": false
+                "file": "signal-2023-02-12-161704_002.jpeg"
               }
             }
           },
           {
-            "id": "420780303fb3337a",
+            "id": "a9d7d5519a147716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Hydrosphere/Water Supply in the UK.md",
+                "file": "Maximum Sustainable Yeild (MSY).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Hydrosphere/Water Supply in the UK.md",
+                "file": "Maximum Sustainable Yeild (MSY).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Hydrosphere/Water Supply in the UK.md",
+                "file": "Maximum Sustainable Yeild (MSY).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Hydrosphere/Water Supply in the UK.md"
+                "file": "Maximum Sustainable Yeild (MSY).md"
               }
             }
           },
@@ -167,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78470451469d21c6",
+  "active": "a9d7d5519a147716",
   "lastOpenFiles": [
-    "The Hydrosphere/Groundwater.md",
+    "signal-2023-02-12-161704_002.jpeg",
+    "The Hydrosphere/Water Supply in the UK.md",
+    "Simpsons Biodiversity Index.md",
     "The Hydrosphere/River discharge.md",
+    "Attachments/1675956059501.jpeg",
+    "The Hydrosphere/Groundwater.md",
     "Ecological Terminology.md",
     "Life and Processes in the Biosphere/Population Control.md",
     "Life and Processes in the Biosphere/Succsession.md",
-    "Dynamic Equilibrium.md",
-    "Climate Change/Ozone/Ozone Depleting Substances.md",
-    "Climate Change/Ozone/CFC'S.md",
-    "Climate Change/Ozone/The Montreal Protocol (1987).md",
-    "Climate Change/Ozone/Anthropogenic Climate Change.md"
+    "Dynamic Equilibrium.md"
   ]
 }

@@ -1,5 +1,5 @@
 ## Spatial Mismatch
-- The north west of england, wales and scotland have a water surplus
+- The north west of England, Wales, and Scotland have a water surplus
 
 ## Large scale water transport
 - Very expensive
