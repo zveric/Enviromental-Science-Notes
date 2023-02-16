@@ -1,0 +1,2 @@
+- Standardisation is a way of ensuring that an experiment is repeatable through the use of standard practice.
+- To standardise an experiment the data must be collected exactly the same way

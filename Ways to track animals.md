@@ -1,3 +1,4 @@
 - Satellite tracking
 - Camera traps
 - Radio tags
+- Mark Capture Release
