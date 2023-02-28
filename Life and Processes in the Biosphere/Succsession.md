@@ -10,7 +10,7 @@
 7. This process increases until a climax community is formed.
 
 ## Secondary Succession
-- Secondary Succession id similar to primary succession however it occurs quicker due to the presence of soil
+- Secondary Succession is similar to primary succession however it occurs quicker due to the presence of soil
 - The lichen build up isn't needed and seeds can instantly colonise the area.
 
 ## Climax Community
