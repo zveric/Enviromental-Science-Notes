@@ -1,0 +1,2 @@
+- This was an agreement between all countries in the UN to protect the ozone layer.
+- Unlike other [[Global Climate Agreements]] such as the [[The Montreal Protocol (1987)]] this didn't set out legally binding goals. These goals were set out in [[The Montreal Protocol (1987)]]

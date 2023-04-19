@@ -1,0 +1,4 @@
+- A psammosere involves ecological succession that starts on sand.
+- Plant nutrients are not readily available, drainage is rapid so water supplies are poor and moving sand makes it difficult for plants to establish a good root hold without being covered and killed
+- As plants colonise they stabilise the sand, increase nutrient supplies, and make water more available
+- Eventually, the sequence of changes in the community of species will establish the climatic climax community
