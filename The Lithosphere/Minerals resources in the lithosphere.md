@@ -4,3 +4,5 @@
 	- We run out and have to find alternatives
 	- We find new sources of them using new technology
 	- We recycle those that can be recycled
+
+GIT TE
