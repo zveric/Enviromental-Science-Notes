@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lithosphere/Minerals resources in the lithosphere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "399d460b6a997950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "The Lithosphere/Why Ores Concentrate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,11 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "399d460b6a997950",
+  "active": "a39e30f4281ec507",
   "lastOpenFiles": [
+    "Maximum Sustainable Yeild (MSY).md",
+    "Untitled.canvas",
+    "The Lithosphere/Why Ores Concentrate.md",
+    "Why Ores Concentrate.pdf",
     "Attachments/Pasted image 20230426101239.png",
     "The Lithosphere/Minerals resources in the lithosphere.md",
-    "The Lithosphere/Why Ores Concentrate.md",
     "The Lithosphere/Introduction to the Lithosphere.md",
     "Life and Processes in the Biosphere/Nitrogen Cycle.md",
     "Climate Change/Ozone/The Montreal Protocol (1987).md",
@@ -196,7 +186,6 @@
     "Attachments/Pasted image 20230305120908.png",
     "Attachments/Screenshot from 2023-03-05 12-04-36.png",
     "Sustainable Management of Water.pdf",
-    "Untitled.canvas",
     "2023-03-05.md",
     "Ecological Terminology.md",
     "Scan 01 Mar 23 10·45·03.pdf.crdownload",
@@ -212,7 +201,6 @@
     "The Hydrosphere/Three Gorges Dam.md",
     "The Hydrosphere/Dams and Reservoirs.md",
     "Attachments/1676458545794.jpeg",
-    "Attachments/1675853424126.jpeg",
-    "Attachments/1676457159853.jpeg"
+    "Attachments/1675853424126.jpeg"
   ]
 }
