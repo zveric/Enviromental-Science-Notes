@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "399d460b6a997950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lithosphere/Why Ores Concentrate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lithosphere/Minerals resources in the lithosphere.md",
+                "file": "The Lithosphere/Why Ores Concentrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lithosphere/Minerals resources in the lithosphere.md",
+                "file": "The Lithosphere/Why Ores Concentrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lithosphere/Minerals resources in the lithosphere.md"
+                "file": "The Lithosphere/Why Ores Concentrate.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a39e30f4281ec507",
+  "active": "399d460b6a997950",
   "lastOpenFiles": [
-    "The Lithosphere/Introduction to the Lithosphere.md",
     "The Lithosphere/Minerals resources in the lithosphere.md",
+    "The Lithosphere/Why Ores Concentrate.md",
+    "The Lithosphere/Introduction to the Lithosphere.md",
     "Life and Processes in the Biosphere/Nitrogen Cycle.md",
     "Climate Change/Ozone/The Montreal Protocol (1987).md",
     "The Lithosphere",
