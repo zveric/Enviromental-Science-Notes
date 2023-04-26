@@ -21,3 +21,8 @@
 	- Coal - Formed over millions of years from vegetation;n in swamps
 	- Oil - Made over million of years from the death of millions of tiny planktonic organisms in seas
 	- Limestone / Chalk - Formed from the shells of tiny dead marine creatures, slowly crushed and compacted over time to form rock.
+
+## Secondary Enrichment
+- This is where ores are enriched a second time
+- ![[Urainium.jpeg]]
+-
