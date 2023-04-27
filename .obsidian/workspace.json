@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76541297096ea8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lithosphere/Reserves and Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lithosphere/Why Ores Concentrate.md",
+                "file": "The Lithosphere/Reserves and Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lithosphere/Why Ores Concentrate.md",
+                "file": "The Lithosphere/Reserves and Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lithosphere/Why Ores Concentrate.md"
+                "file": "The Lithosphere/Reserves and Resources.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a39e30f4281ec507",
+  "active": "76541297096ea8c0",
   "lastOpenFiles": [
-    "Attachments/Urainium.jpeg",
     "The Lithosphere/Why Ores Concentrate.md",
+    "The Lithosphere/Reserves and Resources.md",
+    "Attachments/Urainium.jpeg",
     "Attachments/Pasted image 20230426105753.png",
     "Maximum Sustainable Yeild (MSY).md",
     "Untitled.canvas",
