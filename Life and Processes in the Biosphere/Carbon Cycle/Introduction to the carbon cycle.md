@@ -44,4 +44,3 @@
 
 ## Decomposition
 - The break down of organic matter by micro organisms into dead organic matter, releasing gases such as carbon dioxide under aerobic conditions and methane under anaerobic conditions
--

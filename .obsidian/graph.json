@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Climate Change/Ozone\"",
+      "query": "path:\"Climate Change\"",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Life and Processes in the Biosphere\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"The Hydrosphere\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"The Lithosphere\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 1,
   "linkDistance": 174,
-  "scale": 0.8360386601669918,
+  "scale": 0.4370144290781896,
   "close": false
 }

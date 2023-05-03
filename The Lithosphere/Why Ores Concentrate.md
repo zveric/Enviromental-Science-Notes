@@ -1,3 +1,6 @@
+- Although many minerals are abundant within the earths crust they often aren't available in high enough densities / quantities to make extraction financially viable
+- Ores can concentrate into [[Reserves and Resources]] that can be extracted
+
 ## Alluvial Deposits
 - Dense materials (eg: gold, diamond) drop out of slow moving water. Therefore finer material is transported further.
 - This can lead to a build up of minerals called a **Placer**
