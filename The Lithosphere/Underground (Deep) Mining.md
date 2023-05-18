@@ -8,6 +8,7 @@
 
 ## Disadvantages
 - Expensive
-- Water Pumping
+- Water Pumping causes the water table to droop 
 - Subsidence / Sinkhole
-- 
+- Gasses build up in the mine
+- Safety
