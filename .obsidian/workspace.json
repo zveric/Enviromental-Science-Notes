@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lithosphere/Reserves and Resources.md",
+                "file": "The Lithosphere/Underground (Deep) Mining.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topic List.md",
+                "file": "The Lithosphere/Underground (Deep) Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topic List.md",
+                "file": "The Lithosphere/Underground (Deep) Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic List.md"
+                "file": "The Lithosphere/Underground (Deep) Mining.md"
               }
             }
           },
@@ -175,8 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3478d073adeccf5c",
+  "active": "1d18e06511ce7425",
   "lastOpenFiles": [
+    "The Lithosphere/Enviromental Impacts of Mineral Exploitation.md",
+    "The Lithosphere/Underground (Deep) Mining.md",
+    "The Lithosphere/Reserves and Resources.md",
     "2023-05-07-Note-11-23.xopp~",
     "2023-05-07-Note-11-23.xopp",
     "The Lithosphere/Methods of Finding a Reserve.md",
@@ -194,7 +196,6 @@
     "Past Papers/Past Exam Questions.pdf",
     "Conservation",
     "The Lithosphere/Why Ores Concentrate.md",
-    "The Lithosphere/Reserves and Resources.md",
     "The Lithosphere/Minerals resources in the lithosphere.md",
     "Attachments/Urainium.jpeg",
     "Attachments/Pasted image 20230426105753.png",
@@ -212,7 +213,6 @@
     "Life and Processes in the Biosphere/Sucsession/Psammosere Succession.md",
     "Life and Processes in the Biosphere/Sucsession/Succsession Intro.md",
     "The Hydrosphere/Over Abstraction of Groundwater.md",
-    "The Hydrosphere/Water Treatment.md",
     "Attachments/signal-2023-03-07-141938_002.jpeg",
     "Attachments/Screenshot from 2023-03-05 12-04-36 1.png",
     "Life and Processes in the Biosphere/Carbon Cycle",
@@ -222,7 +222,6 @@
     "Sustainable Management of Water.pdf",
     "Scan 01 Mar 23 10·45·03.pdf.crdownload",
     "Attachments/Pasted image 20230216155811.png",
-    "Attachments/Hydro Sere.jpeg",
-    "Attachments/Hydro Sere.jpeg.crdownload"
+    "Attachments/Hydro Sere.jpeg"
   ]
 }
