@@ -23,11 +23,14 @@
             "id": "a1c64db973211fe7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Conservation/Genetic Resources.md",
-                "mode": "source",
-                "source": false
+                "file": "Conservation/Overview.canvas",
+                "viewState": {
+                  "x": 20.5,
+                  "y": 191.60000000000002,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -189,9 +192,11 @@
   },
   "active": "a1c64db973211fe7",
   "lastOpenFiles": [
-    "Conservation/Overview.canvas",
+    "Conservation/Setting Conservation Priorities.md",
+    "Conservation/Threats to biodiversity.md",
     "Conservation/Genetic Resources.md",
     "Conservation/Reasons for Conservation.md",
+    "Conservation/Overview.canvas",
     "Conservation/Maximum Sustainable Yeild (MSY).md",
     "Topic List.md",
     "Life and Processes in the Biosphere/Phosphorus Cycle/Untitled.md",
@@ -227,7 +232,6 @@
     "The Lithosphere",
     "Climate Change/Ozone/The Vienna Convention for the pretecton of the Ozone Layer (1985).md",
     "Climate Change/Ozone/Ozone Depletion.md",
-    "Climate Change/Ozone/Anthropogenic Climate Change.md",
     "Attachments/signal-2023-03-07-141938_002.jpeg",
     "Attachments/Screenshot from 2023-03-05 12-04-36 1.png",
     "Life and Processes in the Biosphere/Carbon Cycle",
