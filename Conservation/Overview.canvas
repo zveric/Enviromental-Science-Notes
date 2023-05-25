@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"aaa914b76c758867","x":267,"y":-200,"width":247,"height":50,"type":"text","text":"Reasons for Biodiversity"},
+		{"id":"ce0e9b05a41c6932","x":201,"y":-100,"width":380,"height":460,"type":"file","file":"Conservation/Genetic Resources.md"},
+		{"type":"file","file":"Conservation/Maximum Sustainable Yeild (MSY).md","id":"2df660eb7dc5f052","x":-540,"y":-100,"width":400,"height":273}
+	],
+	"edges":[]
+}
