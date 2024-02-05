@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3478d073adeccf5c",
+            "id": "e10075eb86d1b99d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lithosphere/Recycling.md",
+                "file": "Pollution/Pollution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "100581e93cf4feb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainability/Dynamic Equilibrium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c4bd1f3d9450e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustainability/Tipping Points and Feedback Loops.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Feedback",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lithosphere/Recycling.md",
+                "file": "Sustainability/Tipping Points and Feedback Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lithosphere/Recycling.md",
+                "file": "Sustainability/Tipping Points and Feedback Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lithosphere/Recycling.md"
+                "file": "Sustainability/Tipping Points and Feedback Loops.md"
               }
             }
           },
@@ -144,13 +169,26 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6bdcad7d6c8bcfff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 516.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,55 +200,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3478d073adeccf5c",
+  "active": "69c4bd1f3d9450e1",
   "lastOpenFiles": [
-    "The Lithosphere/Exploitation of previously inaccsesable deposits.md",
-    "The Lithosphere/Recycling.md",
-    "The Lithosphere/Exploitation of low grade deposits.md",
-    "Life and Processes in the Biosphere/Simpsons Diversity Index.md",
-    "Attachments/Pasted image 20230525200543.png",
-    "Attachments/Pasted image 20230525200456.jpg",
-    "Conservation/Maximum Sustainable Yeild (MSY).md",
-    "Life and Processes in the Biosphere/Population Control.md",
-    "The Lithosphere/Methods of Finding a Reserve.md",
-    "AQA-74471-QP-NOV21-CR (1).PDF",
+    "Sustainability/Dynamic Equilibrium.md",
+    "Sustainability/Tipping Points and Feedback Loops.md",
+    "Sustainability/Sustainability.md",
+    "Pollution",
+    "Forestry",
+    "Sustainability",
+    "Pollution/Smoke Pollution.md",
+    "Pollution/Pollution.md",
+    "Energy/Wave Power.md",
+    "Attachments/signal-2024-01-25-153044_002.jpeg",
+    "Attachments/Pasted image 20240125153714.png",
+    "Forestry/Sustainable Forestry.md",
+    "Forests/Forest Resorces.md",
+    "Aquatic Food Resources/Environmental Impacts of fishing.md",
+    "Aquatic Food Resources/Fish Populations.md",
+    "Aquatic Food Resources/Types of Fishing.md",
+    "Energy/Tidal Power.md",
+    "Energy/Geothermal.md",
+    "Attachments/Pasted image 20240122093041.png",
+    "Forestry/Deforestation.md",
+    "Forests/The relationship between productivity and biodiversity.md",
+    "Attachments/Pasted image 20240115094443.png",
+    "Attachments/Pasted image 20240115094411.png",
+    "Attachments/Pasted image 20240115094255.png",
+    "Forests",
+    "Attachments/Pasted image 20240108091111.png",
+    "Attachments/Pasted image 20240108090920.png",
+    "Energy/Biofuels.md",
+    "Attachments/Pasted image 20231220105212.png",
+    "Aquatic Food Resources/Reducing the Environmental Impact of fishing.md",
+    "Aquatic Food Resources/Aqua-Culture.md",
+    "Energy/Types of Tidal Power.md",
+    "Attachments/Pasted image 20231213102948.png",
     "AQA-74471-QP-NOV21-CR.PDF",
-    "The Hydrosphere/Sustainable management of water.md",
-    "The Hydrosphere/Three Gorges Dam.md",
-    "The Hydrosphere/Water Supply in the UK.md",
-    "The Hydrosphere/Water Treatment.md",
+    "Energy",
     "Topic List.md",
-    "The Lithosphere/Underground (Deep) Mining.md",
-    "Conservation/Setting Conservation Priorities.md",
-    "Conservation/Overview.canvas",
-    "Conservation/Threats to biodiversity.md",
-    "Conservation/Genetic Resources.md",
-    "Conservation/Reasons for Conservation.md",
-    "Life and Processes in the Biosphere/Phosphorus Cycle/Untitled.md",
-    "The Lithosphere/Enviromental Impacts of Mineral Exploitation.md",
-    "AQA-74471-QP-NOV21-CR.PDF.crdownload",
-    "The Hydrosphere/Groundwater.md",
-    "The Lithosphere/Reserves and Resources.md",
-    "2023-05-07-Note-11-23.xopp~",
-    "2023-05-07-Note-11-23.xopp",
-    "Life and Processes in the Biosphere/Phosphorus Cycle/Eutrophication.md",
-    "Life and Processes in the Biosphere/Phosphorus Cycle/Introduction to the Phosphorus cycle.md",
-    "Life and Processes in the Biosphere/Phosphorus Cycle",
-    "The Lithosphere/Introduction to the Lithosphere.md",
+    "Conservation/Maximum Sustainable Yeild (MSY).md",
+    "Aquatic Food Resources",
     "Ecological Terminology.md",
-    "Standardisation.md",
-    "Past Papers/Past Exam Questions.pdf",
-    "Conservation",
-    "Attachments/Urainium.jpeg",
-    "Attachments/Pasted image 20230426105753.png",
-    "Untitled.canvas",
-    "Why Ores Concentrate.pdf",
-    "Attachments/Pasted image 20230426101239.png",
-    "The Lithosphere",
-    "Attachments/signal-2023-03-07-141938_002.jpeg",
-    "Attachments/Screenshot from 2023-03-05 12-04-36 1.png",
-    "Attachments/Pasted image 20230305130811.png",
-    "Attachments/Pasted image 20230305120908.png",
-    "Attachments/Screenshot from 2023-03-05 12-04-36.png"
+    "AQA-74471-QP-NOV21-CR (1).PDF",
+    "The Lithosphere/Methods of Finding a Reserve.md",
+    "The Lithosphere/Exploitation of low grade deposits.md",
+    "The Lithosphere/Exploitation of previously inaccsesable deposits.md",
+    "Conservation/Overview.canvas",
+    "AQA-74471-QP-NOV21-CR.PDF.crdownload",
+    "2023-05-07-Note-11-23.xopp~",
+    "Untitled.canvas"
   ]
 }

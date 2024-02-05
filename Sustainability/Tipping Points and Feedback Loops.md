@@ -1,0 +1,2 @@
+- Human changes to the climate have triggered natural changes to the earths processes 
+- This means that human actions are no longer needed for climate change to progress
